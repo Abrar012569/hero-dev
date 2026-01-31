@@ -59,7 +59,7 @@ body {
 header {
     background-color: #f3bd96;
     background: url("../images/developer.png"), url("../images/header_bg.png"), #f3bd96;
-    background-position: top left, bottom right;
+    background-position: 23px 38px, bottom right;
     background-repeat: no-repeat;
     padding-top: 50px;
 }
@@ -121,8 +121,11 @@ nav .menu a {
 #banner banner-image img {
     max-width: 585px;
     vertical-align: middle;
-}
 
+}
+.downloadIcon{
+    color: #FFF8F3;
+}
 #about,
 #skills,
 #resume {
